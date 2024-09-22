@@ -13,3 +13,10 @@
 /Users/anveshmuppeda/Desktop/Anvesh/my_learn/git/basic-dotnet-projects/hello-world/obj/Debug/net8.0/hello-world.pdb
 /Users/anveshmuppeda/Desktop/Anvesh/my_learn/git/basic-dotnet-projects/hello-world/obj/Debug/net8.0/hello-world.genruntimeconfig.cache
 /Users/anveshmuppeda/Desktop/Anvesh/my_learn/git/basic-dotnet-projects/hello-world/obj/Debug/net8.0/ref/hello-world.dll
+/Users/anveshmuppeda/Desktop/Anvesh/my_learn/git/basic-dotnet-projects/hello-world/obj/Debug/net8.0/hello-world.csproj.AssemblyReference.cache
+/Users/anveshmuppeda/Desktop/Anvesh/my_learn/git/basic-dotnet-projects/hello-world/bin/Debug/net8.0/echo-hello-world.deps.json
+/Users/anveshmuppeda/Desktop/Anvesh/my_learn/git/basic-dotnet-projects/hello-world/bin/Debug/net8.0/echo-hello-world.runtimeconfig.json
+/Users/anveshmuppeda/Desktop/Anvesh/my_learn/git/basic-dotnet-projects/hello-world/bin/Debug/net8.0/echo-hello-world
+/Users/anveshmuppeda/Desktop/Anvesh/my_learn/git/basic-dotnet-projects/hello-world/bin/Debug/net8.0/echo-hello-world.dll
+/Users/anveshmuppeda/Desktop/Anvesh/my_learn/git/basic-dotnet-projects/hello-world/bin/Debug/net8.0/echo-hello-world.pdb
+/Users/anveshmuppeda/Desktop/Anvesh/my_learn/git/basic-dotnet-projects/hello-world/obj/Debug/net8.0/hello-wo.578816B3.Up2Date
