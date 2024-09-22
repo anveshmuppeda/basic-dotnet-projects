@@ -41,8 +41,12 @@ dotnet restore
 ```  
 
 ## To run    
-```console
-dotnet run
+```console 
+# Run within project folder
+dotnet run 
+
+# Run outside project
+dotnet run --project <project-name>
 ```  
 
 ## To add a reference between two projects   
