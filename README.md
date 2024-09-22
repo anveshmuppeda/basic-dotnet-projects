@@ -1,87 +1,51 @@
 # basic-dotnet-projects
 Basic Dotnet Projects  
 
-4 -> dotnet  
-After 4 all are dotnet code which is from 5  
+## Versioning: 
+* 4 -> dotnet  
+* After 4 all are dotnet code which is from 5  
 
-# Version  
+## Version  
 ```console
 dotnet --version
 ```  
 
-# Dotnet Installer   
+## Dotnet Installer   
 ```console
 https://dotnet.microsoft.com/en-us/download
 ```  
 
-# To create new project  
+## To create new project  
 ```console
 dotnet new console -n <project-name>
 ```  
 
-#  Create a Solution file  
+##  Create a Solution file  
 ```console
 dotnet new sln -n <sln-filename>
 ```  
 
-# Adding new project to a solution file   
+## Adding new project to a solution file   
 ```console
 dotnet sln <filename.sln> add <project-name>
 ```  
 
-# To Build   
+## To Build   
 ```console
 dotnet build
 ```  
 
-# To restore  
+## To restore  
 ```console
 dotnet restore
 ```  
 
-# To run    
+## To run    
 ```console
 dotnet run
 ```  
 
-# To add a reference between two projects   
+## To add a reference between two projects   
 ```console
 dotnet add hello-world reference echo-hello-world
-```  
-
-#   
-```console
-
-```  
-#   
-```console
-
-```  
-#   
-```console
-
-```  
-#   
-```console
-
-```  
-#   
-```console
-
-```  
-#   
-```console
-
-```  
-#   
-```console
-
-```  
-#   
-```console
-
-```  
-#   
-```console
-
 ```  
