@@ -1,5 +1,5 @@
-# basic-dotnet-projects
-Basic Dotnet Projects  
+# Basic Dotnet Projects [![GitHub](https://img.shields.io/github/license/anveshmuppeda/basic-dotnet-projects?color=blue)](https://github.com/anveshmuppeda/basic-dotnet-projects/blob/main/LICENSE)
+
 
 ## Versioning: 
 * 4 -> dotnet  
@@ -53,3 +53,12 @@ dotnet run --project <project-name>
 ```console
 dotnet add hello-world reference echo-hello-world
 ```  
+
+## Project Maintainers & Contributors  
+<table>
+  <tr>
+    <td align="center"><a href="https://anveshmuppeda.github.io/profile/"><img src="https://avatars.githubusercontent.com/u/115966808?v=4" width="100px;" alt=""/><br /><sub><b>Anvesh Muppeda</b></sub></a></td>
+    <td align="center"><a href="https://github.com/saimanasak"><img src="https://avatars.githubusercontent.com/u/47205414?v=4" width="100px;" alt=""/><br /><sub><b>Sai Manasa Kota</b></sub></a></td>
+    <td align="center"><a href="https://github.com/khajjayamteja"><img src="https://avatars.githubusercontent.com/u/151116058?v=4" width="100px;" alt=""/><br /><sub><b>Teja Sai Srinivas</b></sub></a></td>
+  </tr>
+</table>  
