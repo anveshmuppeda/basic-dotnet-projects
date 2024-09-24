@@ -58,6 +58,7 @@ To run the application:
    ```bash
    dotnet run --project <project-name>
    ```
+---
 
 ### Add Project References
 To add a reference between two projects (e.g., referencing [echo-hello-world](https://github.com/anveshmuppeda/basic-dotnet-projects/tree/main/sln-project/echo-hello-world) in [hello-world](https://github.com/anveshmuppeda/basic-dotnet-projects/tree/main/sln-project/hello-world)):
